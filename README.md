@@ -1,4 +1,4 @@
-# <div align="center">Hola Amig0!, I'm Vaibhav Sharma 👋</div>
+# <div align="center">Hi!, I'm Vaibhav Sharma 👋</div>
 
 <div align="center">
 
