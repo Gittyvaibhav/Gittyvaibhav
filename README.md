@@ -65,7 +65,8 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gittyvaibhav&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gittyvaibhav&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Gittyvaibhav&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
